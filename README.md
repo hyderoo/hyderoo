@@ -47,17 +47,17 @@ How deep the experience goes, honestly:
 | [ShelfSeeker](https://github.com/hyderoo/ShelfSeeker) | Mobile-first book finder PWA on the OpenLibrary API (university final project, 2023). [Live demo](https://shelfseekerapp.web.app) | React, PWA |
 | [QA Portfolio](https://github.com/hyderoo/qa-portfolio) | Manual-testing deliverables from a live session on a public demo app: test plan, 24 test cases, 4 reproduced bug reports with evidence. | Test design, defect reporting |
 | [API Testing (Postman)](https://github.com/hyderoo/api-testing-postman) | Postman + Newman API test suite (41 assertions) against public F1 APIs, CI-run with a published HTML report. [Report](https://hyderoo.github.io/api-testing-postman/) | Postman, Newman, GitHub Actions |
-| [CTFL Study Notes](https://github.com/hyderoo/ctfl-study-notes) | My ISTQB CTFL v4.0 prep tracker - in progress, own-words notes per syllabus chapter. | ISTQB CTFL (studying) |
+| [CTFL Study Notes](https://github.com/hyderoo/ctfl-study-notes) | My ISTQB CTFL v4.0 prep tracker: in progress, own-words notes per syllabus chapter. | ISTQB CTFL (studying) |
 
 ## Experience
 
-- **IT Quality Assurance, PT Bank Mandiri** (Jun 2026 - present) - functional QA on the Livin' by Mandiri mobile banking app in a QA team of 16: regression, smoke, UAT, and backward-compatibility testing across 10+ releases and 5,000+ test cases; API testing with Postman and SQL validation.
-- **IT E2E QA Intern, Home Credit Indonesia** (Oct 2025 - Apr 2026) - end-to-end QA on HCI x OPPO projects: test planning, scenario and test-case writing, and daily UAT syncs with OPPO Mainland; SQL and exposure to Selenium / Katalon automation.
+- **IT Quality Assurance, PT Bank Mandiri** (Jun 2026 - present): functional QA on the Livin' by Mandiri mobile banking app in a QA team of 16: regression, smoke, UAT, and backward-compatibility testing across 10+ releases and 5,000+ test cases; API testing with Postman and SQL validation.
+- **IT E2E QA Intern, Home Credit Indonesia** (Oct 2025 - Apr 2026): end-to-end QA on HCI x OPPO projects: test planning, scenario and test-case writing, and daily UAT syncs with OPPO Mainland; SQL and exposure to Selenium / Katalon automation.
 - **Information Systems Development Intern, National Land Agency (BPN)** (Jan - Feb 2024).
 
 ## Education and certifications
 
-- B.Eng. Computer Engineering, Diponegoro University - GPA 3.73/4.00, graduated Jul 2025
+- B.Eng. Computer Engineering, Diponegoro University, GPA 3.73/4.00, graduated Jul 2025
 - TOEFL ITP 603 (Englishvit) · SFC, BAFC, SODFC (SCRUMstudy) · Claude Code in Action (Anthropic)
 
 ## Contact
