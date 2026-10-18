@@ -45,6 +45,9 @@ How deep the experience goes, honestly:
 | [KARHUTLA Watch](https://github.com/hyderoo/karhutla-watch) | Indonesia forest-fire and smoke monitoring dashboard on live Open-Meteo / NASA feeds, with clearly labelled demo fallbacks. [Live demo](https://karhutla-watch.vercel.app) | React, TypeScript, Vite |
 | [Dewa WO App](https://github.com/hyderoo/dewa-apk) | Final-thesis Flutter app for a real wedding-services business, talking to a [Laravel REST API](https://github.com/hyderoo/dewa-wo). | Flutter, Dart, REST API |
 | [ShelfSeeker](https://github.com/hyderoo/ShelfSeeker) | Mobile-first book finder PWA on the OpenLibrary API (university final project, 2023). [Live demo](https://shelfseekerapp.web.app) | React, PWA |
+| [QA Portfolio](https://github.com/hyderoo/qa-portfolio) | Manual-testing deliverables from a live session on a public demo app: test plan, 24 test cases, 4 reproduced bug reports with evidence. | Test design, defect reporting |
+| [API Testing (Postman)](https://github.com/hyderoo/api-testing-postman) | Postman + Newman API test suite (41 assertions) against public F1 APIs, CI-run with a published HTML report. [Report](https://hyderoo.github.io/api-testing-postman/) | Postman, Newman, GitHub Actions |
+| [CTFL Study Notes](https://github.com/hyderoo/ctfl-study-notes) | My ISTQB CTFL v4.0 prep tracker - in progress, own-words notes per syllabus chapter. | ISTQB CTFL (studying) |
 
 ## Experience
 
