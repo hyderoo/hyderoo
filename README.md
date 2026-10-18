@@ -12,24 +12,24 @@ runs on real, attributed data and is deployed live.
 **Languages**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,python,php,dart&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,python,php,dart&theme=light" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,python,php,dart&amp;theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,python,php,dart&amp;theme=light" />
   <img alt="TypeScript, JavaScript, Python, PHP, Dart" src="https://skillicons.dev/icons?i=ts,js,python,php,dart" />
 </picture>
 
 **Frameworks & UI**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,flutter,laravel,tailwind,vite&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,nextjs,flutter,laravel,tailwind,vite&theme=light" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,flutter,laravel,tailwind,vite&amp;theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,nextjs,flutter,laravel,tailwind,vite&amp;theme=light" />
   <img alt="React, Next.js, Flutter, Laravel, Tailwind CSS, Vite" src="https://skillicons.dev/icons?i=react,nextjs,flutter,laravel,tailwind,vite" />
 </picture>
 
 **Testing & QA**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postman,selenium&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postman,selenium&theme=light" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postman,selenium&amp;theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postman,selenium&amp;theme=light" />
   <img alt="Postman, Selenium" src="https://skillicons.dev/icons?i=postman,selenium" />
 </picture>
 <a href="https://github.com/hyderoo/ShelfSeeker-e2e"><img alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white" /></a>
@@ -37,8 +37,8 @@ runs on real, attributed data and is deployed live.
 **Platform & data**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql,supabase,firebase,vercel,githubactions,git&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mysql,supabase,firebase,vercel,githubactions,git&theme=light" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql,supabase,firebase,vercel,githubactions,git&amp;theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mysql,supabase,firebase,vercel,githubactions,git&amp;theme=light" />
   <img alt="MySQL, Supabase, Firebase, Vercel, GitHub Actions, Git" src="https://skillicons.dev/icons?i=mysql,supabase,firebase,vercel,githubactions,git" />
 </picture>
 
