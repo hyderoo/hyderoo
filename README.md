@@ -51,7 +51,7 @@ How deep the experience goes, honestly:
 
 ## Experience
 
-- **IT Quality Assurance (contract), PT Bank Mandiri** (Jun 2026 - present) - functional QA on the Livin' by Mandiri mobile banking app in a QA team of 16: regression, smoke, UAT, and backward-compatibility testing across 10+ releases and 5,000+ test cases; API testing with Postman and SQL validation.
+- **IT Quality Assurance, PT Bank Mandiri** (Jun 2026 - present) - functional QA on the Livin' by Mandiri mobile banking app in a QA team of 16: regression, smoke, UAT, and backward-compatibility testing across 10+ releases and 5,000+ test cases; API testing with Postman and SQL validation.
 - **IT E2E QA Intern, Home Credit Indonesia** (Oct 2025 - Apr 2026) - end-to-end QA on HCI x OPPO projects: test planning, scenario and test-case writing, and daily UAT syncs with OPPO Mainland; SQL and exposure to Selenium / Katalon automation.
 - **Information Systems Development Intern, National Land Agency (BPN)** (Jan - Feb 2024).
 
