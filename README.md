@@ -7,21 +7,48 @@ Mandiri mobile banking app. I build full-stack web apps and test automation
 projects on the side to grow beyond manual testing. Everything pinned below
 runs on real, attributed data and is deployed live.
 
-## What I care about
+## Tech stack
 
-- Software quality as a discipline: clear test plans, honest bug reports, reproducible results
-- Data-honest software: dashboards that label exactly what is live, delayed, historical, or demo
-- Closing the gap between manual QA and automation engineering
+**Languages**
 
-## Skills
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,python,php,dart&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,python,php,dart&theme=light" />
+  <img alt="TypeScript, JavaScript, Python, PHP, Dart" src="https://skillicons.dev/icons?i=ts,js,python,php,dart" />
+</picture>
 
-| Category | Tools and technologies |
+**Frameworks & UI**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,flutter,laravel,tailwind,vite&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,nextjs,flutter,laravel,tailwind,vite&theme=light" />
+  <img alt="React, Next.js, Flutter, Laravel, Tailwind CSS, Vite" src="https://skillicons.dev/icons?i=react,nextjs,flutter,laravel,tailwind,vite" />
+</picture>
+
+**Testing & QA**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postman,selenium&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postman,selenium&theme=light" />
+  <img alt="Postman, Selenium" src="https://skillicons.dev/icons?i=postman,selenium" />
+</picture>
+<a href="https://github.com/hyderoo/ShelfSeeker-e2e"><img alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white" /></a>
+
+**Platform & data**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql,supabase,firebase,vercel,githubactions,git&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mysql,supabase,firebase,vercel,githubactions,git&theme=light" />
+  <img alt="MySQL, Supabase, Firebase, Vercel, GitHub Actions, Git" src="https://skillicons.dev/icons?i=mysql,supabase,firebase,vercel,githubactions,git" />
+</picture>
+
+How deep the experience goes, honestly:
+
+| Depth | Tools |
 | --- | --- |
-| Testing & QA | Test planning and design, regression / smoke / UAT, defect tracking (JIRA), TestRail, Confluence |
-| API & data | Postman, REST APIs, SQL |
-| Test automation | Playwright (project work), Selenium & Katalon (workplace exposure), WebdriverIO + Appium (bootcamp coursework) |
-| Development | TypeScript / JavaScript, React, Next.js, Flutter / Dart, PHP / Laravel, Python (academic) |
-| Platform & CI | GitHub Actions, Vercel, Supabase, Firebase, Git |
+| Daily at work | Manual / functional testing, regression, smoke, UAT, Postman, SQL, JIRA, TestRail, Confluence, Git |
+| Built in projects | TypeScript / JavaScript, React, Next.js, Flutter / Dart, PHP / Laravel, Playwright, MySQL, Supabase, Firebase, Vercel, GitHub Actions |
+| Exposure & coursework | Selenium, Katalon, WebdriverIO, Appium, Python |
 
 ## Selected projects
 
