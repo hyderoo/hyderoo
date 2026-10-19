@@ -67,9 +67,5 @@ How deep the experience goes, honestly:
 
 Open to Junior QA, QA Analyst, and Test Automation opportunities.
 
-## Motivation
-
-<img src="./heejin-motivation.gif" width="180" alt="Jeon Heejin (LOONA / ARTMS)" />
-
-Jeon Heejin (LOONA / ARTMS) - my motivation.
+<img src="./heejin-motivation.gif" width="180" alt="Animated GIF" />
 
