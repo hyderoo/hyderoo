@@ -2,6 +2,7 @@ import re
 import os
 import sys
 import ast
+import random
 from enum import Enum
 from datetime import datetime
 
@@ -19,6 +20,26 @@ class Action(Enum):
     UNKNOWN = 0
     MOVE = 1
     NEW_GAME = 2
+
+
+BOT_AUTHOR = '@github-actions[bot]'
+
+PIECE_VALUES = {
+    1: 1,   # PAWN
+    2: 3,   # KNIGHT
+    3: 3,   # BISHOP
+    4: 5,   # ROOK
+    5: 9,   # QUEEN
+    6: 0,   # KING
+}
+
+
+def choose_bot_move(board):
+    """Pick the bot's reply: the highest-value capture if one exists, otherwise a random legal move."""
+    captures = [m for m in board.legal_moves if board.is_capture(m)]
+    if captures:
+        return max(captures, key=lambda m: PIECE_VALUES.get(board.piece_type_at(m.to_square), 0))
+    return random.choice(list(board.legal_moves))
 
 
 def update_top_moves(user):
@@ -158,6 +179,15 @@ def main(issue, issue_author, repo_owner):
         gameboard.push(move)
         game.end().add_main_variation(move, comment=issue_author)
         game.headers['Result'] = gameboard.result()
+
+        # Bot reply: answer every valid human move with the counter move so the game can be played solo
+        if not gameboard.is_game_over():
+            bot_move = choose_bot_move(gameboard)
+            gameboard.push(bot_move)
+            game.end().add_main_variation(bot_move, comment=BOT_AUTHOR)
+            game.headers['Result'] = gameboard.result()
+            update_last_moves(bot_move.uci() + ': ' + BOT_AUTHOR)
+            issue.create_comment(settings['comments']['bot_move'].format(move=bot_move.uci()))
 
     elif action[0] == Action.UNKNOWN:
         issue.create_comment(settings['comments']['unknown_command'].format(author=issue_author))
