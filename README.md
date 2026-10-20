@@ -67,25 +67,6 @@ How deep the experience goes, honestly:
 
 Open to Junior QA, QA Analyst, and Test Automation opportunities.
 
-## Stats
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=hyderoo&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=hyderoo&show_icons=true&include_all_commits=true&theme=default&hide_border=true" />
-  <img height="165" alt="GitHub stats card for hyderoo" src="https://github-readme-stats.vercel.app/api?username=hyderoo&show_icons=true&include_all_commits=true&theme=default&hide_border=true" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hyderoo&layout=compact&theme=github_dark&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hyderoo&layout=compact&theme=default&hide_border=true" />
-  <img height="165" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyderoo&layout=compact&theme=default&hide_border=true" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=hyderoo&theme=github-dark-blue&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=hyderoo&theme=default&hide_border=true" />
-  <img alt="Contribution streak" src="https://streak-stats.demolab.com/?user=hyderoo&theme=default&hide_border=true" />
-</picture>
-
 ## Minigame
 
 A snake eating my contribution graph, regenerated daily by a GitHub Action in this repo.
