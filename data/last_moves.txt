@@ -1,3 +1,5 @@
+b7b6: @github-actions[bot]
+a3a4: @hyderoo
 g7g5: @github-actions[bot]
 a2a3: @hyderoo
 Start game: @hyderoo
