@@ -67,15 +67,42 @@ How deep the experience goes, honestly:
 
 Open to Junior QA, QA Analyst, and Test Automation opportunities.
 
-## Minigame
+## Minigames
 
-A snake eating my contribution graph, regenerated daily by a GitHub Action in this repo.
+Pac-Man eating my contribution graph, regenerated daily by a GitHub Action in this repo.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hyderoo/hyderoo/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hyderoo/hyderoo/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation eating the contribution graph" src="https://raw.githubusercontent.com/hyderoo/hyderoo/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hyderoo/hyderoo/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hyderoo/hyderoo/output/pacman-contribution-graph.svg" />
+  <img alt="Pac-Man animation eating the contribution graph" src="https://raw.githubusercontent.com/hyderoo/hyderoo/output/pacman-contribution-graph.svg" />
 </picture>
+
+Community chess that anyone can play: click a move in the table, submit the issue it opens, and a bot in this repo answers with the counter move. It's your turn! Move a <!-- BEGIN TURN -->?<!-- END TURN --> piece.
+
+<!-- BEGIN CHESS BOARD -->
+(Here goes the chess board)
+<!-- END CHESS BOARD -->
+
+**It's your turn to move! Choose one from the following table**
+<!-- BEGIN MOVES LIST -->
+(Here goes the list of legal moves)
+<!-- END MOVES LIST -->
+
+<details>
+  <summary>Last 5 moves in this game</summary>
+<!-- BEGIN LAST MOVES -->
+(Here goes the list of the last 5 moves)
+<!-- END LAST MOVES -->
+</details>
+
+<details>
+  <summary>Top 10 most active players</summary>
+<!-- BEGIN TOP MOVES -->
+(Here goes the top 10 most moves)
+<!-- END TOP MOVES -->
+</details>
+
+Chess bot by [marcizhu/readme-chess](https://github.com/marcizhu/readme-chess) (MIT).
 
 <img src="./heejin-motivation.gif" width="180" alt="Animated GIF" />
 
