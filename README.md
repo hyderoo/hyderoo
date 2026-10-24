@@ -144,7 +144,7 @@ Chess bot by [marcizhu/readme-chess](https://github.com/marcizhu/readme-chess) (
 <table>
   <tr>
     <td><img src="./heejin-motivation.gif" width="180" alt="Animated GIF" /></td>
-    <td><a href="https://github.com/hyderoo/hyderoo/blob/main/heejin-video.mp4"><img src="./heejin-video.gif" height="180" alt="Heejin clip - click to play with sound" /></a></td>
+    <td><a href="https://github.com/hyderoo/hyderoo/raw/main/heejin-video.mp4"><img src="./heejin-video.gif" height="180" alt="Heejin clip - click to play with sound" /></a></td>
   </tr>
 </table>
 
