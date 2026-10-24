@@ -141,5 +141,10 @@ Chess against the repo's bot, open to anyone: click a move in the table, submit 
 
 Chess bot by [marcizhu/readme-chess](https://github.com/marcizhu/readme-chess) (MIT).
 
-<img src="./heejin-motivation.gif" width="180" alt="Animated GIF" />
+<table>
+  <tr>
+    <td><img src="./heejin-motivation.gif" width="180" alt="Heejin GIF" /></td>
+    <td><video src="https://github.com/hyderoo/hyderoo/raw/main/heejin-video.mp4" height="180" muted loop playsinline controls></video></td>
+  </tr>
+</table>
 
