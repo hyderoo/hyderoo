@@ -40,6 +40,7 @@ How deep the experience goes, honestly:
 | --- | --- | --- |
 | [APEX F1](https://github.com/hyderoo/apex-f1) | Live Formula 1 intelligence dashboard: timing tower, telemetry, tyre strategy, race analysis. 101 unit tests, CI-gated. [Live demo](https://apex-f1-murex.vercel.app) | Next.js, TypeScript |
 | [ShelfSeeker E2E](https://github.com/hyderoo/ShelfSeeker-e2e) | Playwright E2E suite with 78 runs across desktop and mobile emulation, CI, and a self-built HTML report dashboard. [Report](https://hyderoo.github.io/ShelfSeeker-e2e/) | Playwright, TypeScript, GitHub Actions |
+| [Worlds Live Quality Suite](https://github.com/hyderoo/worlds-live-quality-suite) | Playwright and TypeScript quality suite for Worlds 2026 Live: 117 test cases across API, UI and accessibility, with a test plan, run evidence and a defect log. | Playwright, TypeScript |
 | [Worlds 2026 Live](https://github.com/hyderoo/worlds-2026-live) | Live League of Legends Worlds tracker: scheduled sync pipeline into Supabase, realtime updates, 9 languages. [Live demo](https://worlds-2026-live.vercel.app) | Next.js, Supabase, GitHub Actions |
 | [QuakeWatch](https://github.com/hyderoo/quakewatch) | Real-time earthquake dashboard on official USGS, BMKG, and JMA feeds with per-source honesty labelling. [Live demo](https://quakewatch-one.vercel.app) | Next.js, TypeScript, MapLibre |
 | [KARHUTLA Watch](https://github.com/hyderoo/karhutla-watch) | Indonesia forest-fire and smoke monitoring dashboard on live Open-Meteo / NASA feeds, with clearly labelled demo fallbacks. [Live demo](https://karhutla-watch.vercel.app) | React, TypeScript, Vite |
@@ -62,10 +63,11 @@ How deep the experience goes, honestly:
 
 ## Contact
 
+- Website: [hafizhamdani.my.id](https://hafizhamdani.my.id/)
 - LinkedIn: [linkedin.com/in/hafizhamdani](https://www.linkedin.com/in/hafizhamdani/)
 - Email: hafizhamdani018@gmail.com
 
-Open to Junior QA, QA Analyst, and Test Automation opportunities.
+Open to Junior QA, QA Analyst, and Test Automation roles, and to entry-level DevOps and software engineering.
 
 ## Minigames
 
