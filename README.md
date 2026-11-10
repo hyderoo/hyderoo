@@ -4,14 +4,14 @@
 
 QA engineer based in West Jakarta, Indonesia, currently testing the Livin' by
 Mandiri mobile banking app. I build full-stack web apps and test automation
-projects on the side to grow beyond manual testing. Everything pinned below
-runs on real, attributed data and is deployed live.
+projects on the side to grow beyond manual testing. Across my QA roles so far
+I have worked through 5,000+ test cases.
 
 ## Tech stack
 
 **Languages**
 
-<img alt="TypeScript, JavaScript, Python, PHP, Dart" src="https://skillicons.dev/icons?i=ts,js,python,php,dart" height="48" />
+<img alt="TypeScript, JavaScript, Python, PHP, Dart, Go" src="https://skillicons.dev/icons?i=ts,js,python,php,dart,go" height="48" />
 
 **Frameworks & UI**
 
@@ -26,40 +26,53 @@ runs on real, attributed data and is deployed live.
 
 <img alt="MySQL, Supabase, Firebase, Vercel, GitHub Actions, Git" src="https://skillicons.dev/icons?i=mysql,supabase,firebase,vercel,githubactions,git" height="48" />
 
+**Learning now**
+
+<img alt="Rust" src="https://skillicons.dev/icons?i=rust" height="48" />
+
 How deep the experience goes, honestly:
 
 | Depth | Tools |
 | --- | --- |
 | Daily at work | Manual / functional testing, regression, smoke, UAT, Postman, SQL, JIRA, TestRail, Confluence, Git |
-| Built in projects | TypeScript / JavaScript, React, Next.js, Flutter / Dart, PHP / Laravel, Playwright, MySQL, Supabase, Firebase, Vercel, GitHub Actions |
-| Exposure & coursework | Selenium, Katalon, WebdriverIO, Appium, Python |
+| Built in projects | TypeScript / JavaScript, React, Next.js, Flutter / Dart, PHP / Laravel, Python, Go, Playwright, MySQL, Supabase, Firebase, Vercel, GitHub Actions |
+| Exposure & coursework | Selenium, Katalon, WebdriverIO, Appium |
+| Learning now | Rust |
 
 ## Selected projects
 
+### QA and testing
+
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [APEX F1](https://github.com/hyderoo/apex-f1) | Live Formula 1 intelligence dashboard: timing tower, telemetry, tyre strategy, race analysis. 101 unit tests, CI-gated. [Live demo](https://apex-f1-murex.vercel.app) | Next.js, TypeScript |
-| [ShelfSeeker E2E](https://github.com/hyderoo/ShelfSeeker-e2e) | Playwright E2E suite with 78 runs across desktop and mobile emulation, CI, and a self-built HTML report dashboard. [Report](https://hyderoo.github.io/ShelfSeeker-e2e/) | Playwright, TypeScript, GitHub Actions |
-| [Worlds Live Quality Suite](https://github.com/hyderoo/worlds-live-quality-suite) | Playwright and TypeScript quality suite for Worlds 2026 Live: 117 test cases across API, UI and accessibility, with a test plan, run evidence and a defect log. | Playwright, TypeScript |
-| [Worlds 2026 Live](https://github.com/hyderoo/worlds-2026-live) | Live League of Legends Worlds tracker: scheduled sync pipeline into Supabase, realtime updates, 9 languages. [Live demo](https://worlds-2026-live.vercel.app) | Next.js, Supabase, GitHub Actions |
-| [QuakeWatch](https://github.com/hyderoo/quakewatch) | Real-time earthquake dashboard on official USGS, BMKG, and JMA feeds with per-source honesty labelling. [Live demo](https://quakewatch-one.vercel.app) | Next.js, TypeScript, MapLibre |
-| [KARHUTLA Watch](https://github.com/hyderoo/karhutla-watch) | Indonesia forest-fire and smoke monitoring dashboard on live Open-Meteo / NASA feeds, with clearly labelled demo fallbacks. [Live demo](https://karhutla-watch.vercel.app) | React, TypeScript, Vite |
-| [Dewa WO App](https://github.com/hyderoo/dewa-apk) | Final-thesis Flutter app for a real wedding-services business, talking to a [Laravel REST API](https://github.com/hyderoo/dewa-wo). | Flutter, Dart, REST API |
-| [ShelfSeeker](https://github.com/hyderoo/ShelfSeeker) | Mobile-first book finder PWA on the OpenLibrary API (university final project, 2023). [Live demo](https://shelfseekerapp.web.app) | React, PWA |
-| [QA Portfolio](https://github.com/hyderoo/qa-portfolio) | Manual-testing deliverables from a live session on a public demo app: test plan, 24 test cases, 4 reproduced bug reports with evidence. | Test design, defect reporting |
-| [API Testing (Postman)](https://github.com/hyderoo/api-testing-postman) | Postman + Newman API test suite (41 assertions) against public F1 APIs, CI-run with a published HTML report. [Report](https://hyderoo.github.io/api-testing-postman/) | Postman, Newman, GitHub Actions |
+| [Worlds Live Quality Suite](https://github.com/hyderoo/worlds-live-quality-suite) | Playwright and TypeScript quality suite for Worlds 2026 Live, covering API, UI and accessibility, with a test plan, run evidence and a defect log of real open bugs found in the app. | Playwright, TypeScript |
+| [ShelfSeeker E2E](https://github.com/hyderoo/ShelfSeeker-e2e) | Playwright E2E suite across desktop and mobile emulation, with CI and a self-built HTML report dashboard. [Report](https://hyderoo.github.io/ShelfSeeker-e2e/) | Playwright, TypeScript, GitHub Actions |
+| [QA Portfolio](https://github.com/hyderoo/qa-portfolio) | Manual-testing deliverables from a live session on a public demo app: test plan, test cases and reproduced bug reports with evidence screenshots. | Test design, defect reporting |
+| [API Testing (Postman)](https://github.com/hyderoo/api-testing-postman) | Postman + Newman API test suite against public F1 APIs, run in CI with a published HTML report. [Report](https://hyderoo.github.io/api-testing-postman/) | Postman, Newman, GitHub Actions |
 | [CTFL Study Notes](https://github.com/hyderoo/ctfl-study-notes) | My ISTQB CTFL v4.0 prep tracker: in progress, own-words notes per syllabus chapter. | ISTQB CTFL (studying) |
+
+### Apps, dashboards and tools
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [APEX F1](https://github.com/hyderoo/apex-f1) | Live Formula 1 intelligence dashboard on OpenF1 and Jolpica data: timing tower, telemetry, tyre strategy, race analysis, with unit tests and CI. [Live demo](https://apexf1.web.id) | Next.js, TypeScript |
+| [Worlds 2026 Live](https://github.com/hyderoo/worlds-2026-live) | Live League of Legends Worlds tracker on official LoL Esports data, with a scheduled sync pipeline into Supabase and realtime updates. [Live demo](https://worlds2026.web.id) | Next.js, Supabase, GitHub Actions |
+| [QuakeWatch](https://github.com/hyderoo/quakewatch) | Real-time earthquake dashboard on public USGS data: live map, event feed and analytics, with an Indonesia focus. [Live demo](https://quakewatch.web.id) | Next.js, TypeScript, MapLibre |
+| [KARHUTLA Watch](https://github.com/hyderoo/karhutla-watch) | Indonesia forest-fire and smoke monitoring dashboard on Open-Meteo and NASA feeds, with clearly labelled demo fallbacks. [Live demo](https://karhutlawatch.web.id) | React, TypeScript, Vite |
+| [SINDAPARKA](https://github.com/hyderoo/SINDAPARKA) | Growth-monitoring app for posyandu cadres in Parakan Kauman, Temanggung, started as a community service (KKN) team project with BKKBN. The demo runs on synthetic data. [Live demo](https://sindaparka.web.id) | Next.js, TypeScript, Supabase |
+| [Dewa WO App](https://github.com/hyderoo/dewa-apk) | Final-thesis Flutter app for a real wedding-services business, talking to a [Laravel REST API](https://github.com/hyderoo/dewa-wo). [Business site](https://dewamanagement.web.id) | Flutter, Dart, REST API |
+| [ShelfSeeker](https://github.com/hyderoo/ShelfSeeker) | Mobile-first book finder PWA on the OpenLibrary API (university final project, 2023). [Live demo](https://shelfseeker.web.id) | React, PWA |
 
 ## Experience
 
-- **IT Quality Assurance, PT Bank Mandiri** (Jun 2026 - present): functional QA on the Livin' by Mandiri mobile banking app in a QA team of 16: regression, smoke, UAT, and backward-compatibility testing across 10+ releases and 5,000+ test cases; API testing with Postman and SQL validation.
-- **IT E2E QA Intern, Home Credit Indonesia** (Oct 2025 - Apr 2026): end-to-end QA on HCI x OPPO projects: test planning, scenario and test-case writing, and daily UAT syncs with OPPO Mainland; SQL and exposure to Selenium / Katalon automation.
-- **Information Systems Development Intern, National Land Agency (BPN)** (Jan - Feb 2024).
+- **IT Quality Assurance, Mandiri International Technology (contract), placed at PT Bank Mandiri** (Jun 2026 to present): functional QA on the Livin' by Mandiri mobile banking app in a QA team of 16, covering regression, smoke, UAT, and backward-compatibility testing across 10+ releases; API testing with Postman and SQL validation.
+- **IT E2E QA Intern, Home Credit Indonesia** (Oct 2025 to Apr 2026): end-to-end QA on HCI x OPPO projects: test planning, scenario and test-case writing, and daily UAT syncs with OPPO Mainland; SQL and exposure to Selenium / Katalon automation.
+- **Information Systems Development Intern, National Land Agency (BPN), Bogor Regency** (Jan to Feb 2024).
 
 ## Education and certifications
 
 - B.Eng. Computer Engineering, Diponegoro University, GPA 3.73/4.00, graduated Jul 2025
-- TOEFL ITP 603 (Englishvit) · SFC, BAFC, SODFC (SCRUMstudy) · Claude Code in Action (Anthropic)
+- Online TOEFL test by Englishvit (score 603) · SFC, BAFC, SODFC (SCRUMstudy) · Claude Code in Action (Anthropic)
 
 ## Contact
 
